@@ -1,0 +1,22 @@
+* {
+   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.img img {
+   width: 100%;
+}
+.submain p {
+   font-size: 19px;
+}
+#b {
+   font-weight: bold;
+}
+.name {
+   margin-top: 40px;
+   font-size: 30px;
+   font-weight: bold;
+   color: teal;
+}
+.text {
+   font-size: 18px;
+}
